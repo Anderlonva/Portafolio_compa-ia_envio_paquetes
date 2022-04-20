@@ -1,0 +1,32 @@
+.mderecha{
+    margin-right: 10px;
+}
+
+.mizquierda{
+    margin-left: 40px;
+}
+
+ footer{
+    background-color: rgb(23, 125, 194);
+}
+footer a{
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+}
+#img-somos{
+    width: 70%;
+}
+
+@media screen and (min-width:1225px){
+    #img-somos{
+        width: 30%;
+    }
+}
+@media screen and (min-width:991px ){
+    #img-somos{
+        width: 50%;
+    }
+}
